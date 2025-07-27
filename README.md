@@ -1,6 +1,6 @@
 ## Hi there 👋
 ## 
-## Options Pricing Model - 
+## Options Pricing Model - https://github.com/Dega-Balaji/Options-Pricing-Model-Project
 <!--
 **Dega-Balaji/Dega-Balaji** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
