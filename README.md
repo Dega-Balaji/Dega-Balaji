@@ -1,6 +1,9 @@
 ## Hi there 👋
-## 
-## Options Pricing Model - https://github.com/Dega-Balaji/Options-Pricing-Model-Project
+
+## Academic Projects
+
+### [Project: Pricing Model For Options](https://github.com/hellofly1234/Interactive-Option-Greeks-Visualisation-Tool)
+
 <!--
 **Dega-Balaji/Dega-Balaji** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
