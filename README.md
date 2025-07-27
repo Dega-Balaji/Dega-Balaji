@@ -4,7 +4,7 @@
 
 ### [Project: Pricing Model For Options](https://github.com/Dega-Balaji/Pricing-Model-For-Options)
 
-### [Project: AI-Powered Stock Market News Summarisation Agent]
+### [Project: AI-Powered Stock Market News Summarisation Agent](https://github.com/Dega-Balaji/AI-Powered-Stock-Market-News-Summarisation-Agent)
 
 <!--
 **Dega-Balaji/Dega-Balaji** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
